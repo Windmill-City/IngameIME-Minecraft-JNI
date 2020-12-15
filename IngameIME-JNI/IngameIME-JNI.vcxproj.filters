@@ -21,7 +21,7 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Minecraft_Forge\IngameIME\src\main\cpp\city_windmill_ingameime_client_jni_ExternalBaseIME.h">
+    <ClInclude Include="..\..\city_windmill_ingameime_client_jni_ExternalBaseIME.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Minecraft_Forge\IngameIME\src\main\cpp\city_windmill_ingameime_client_jni_ExternalBaseIME.cpp">
+    <ClCompile Include="..\..\city_windmill_ingameime_client_jni_ExternalBaseIME.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
